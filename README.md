@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/bcf0a1b3-f8f1-474c-8f2e-b6be05f956b4
+
+
 ## Starbucks Landing Page
 
 Uma landing page moderna e responsiva inspirada no design da **Starbucks**, desenvolvida com **HTML**, **CSS** e **JavaScript** puro.  
